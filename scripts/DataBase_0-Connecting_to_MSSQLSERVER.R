@@ -5,8 +5,8 @@
 # Script update date: 21/6/2018
 
 # install the required package if not already installed
-install.packages("odbc", dependencies = TRUE)
-install.packages("DBI", dependencies = TRUE)
+# install.packages("odbc", dependencies = TRUE)
+# install.packages("DBI", dependencies = TRUE)
 
 # load the package
 library(odbc) # for dbConnect()
@@ -26,6 +26,7 @@ rs<- dbGetQuery(con, "SELECT * from groceries")
 
 # Reading: dbReadTable() will read a full table into an R data.frame().
 grocery.data<- dbReadTable(con, 'groceries')
+str(grocery.data)
 
 # close the database connection
 
