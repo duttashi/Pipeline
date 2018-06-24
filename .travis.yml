@@ -17,3 +17,6 @@ R_LIBS_SITE=/usr/local/lib/R/site-library:/usr/lib/R/site-library
 _R_CHECK_CRAN_INCOMING_=false
 NOT_CRAN=true
 R_PROFILE=~/.Rprofile.site
+
+# Install R packages
+- "./travis-tool.sh r_binary_install odbc DBI"
