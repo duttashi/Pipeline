@@ -3,8 +3,8 @@
 
 *Copyright 2018 [Ashish Dutt](https://duttashi.github.io/). Licensed under the Apache 2.0 license.*
 
-## dbpipeline or Database Pipeline
-SQL database, connectivity with R and/or Python, building a data pipeline 
+## Pipeline
+A pipeline connecting database('s)[local or server mode] with programming language's, so that data can flow seamlessley. 
 
 ### Objective
 
