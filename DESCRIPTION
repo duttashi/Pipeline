@@ -2,8 +2,9 @@ Package: Pipeline
 Title: A pipeline through which data and/or information will flow
 Version: 0.0.0.9000
 Authors@R: c(
-    person("Ashish", "Dutt", "ashishdutt@yahoo.com.my", role = c("aut", "cre"))
-    )
+person("Ashish", "Dutt", "ashishdutt@yahoo.com.my", role = c("aut", "cre")))
+Maintainer: Ashish Dutt <ashishdutt@yahoo.com.my>
+Description: A pipeline through which data and/or information will flow
 License: Apache 2.9
 URL: https://github.com/duttashi/Pipeline
 BugReports: https://github.com/duttashi/Pipeline/issues
