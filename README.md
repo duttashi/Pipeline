@@ -1,16 +1,16 @@
 # Readme
 [![Project Status: Active – The project is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) [![Donate](http://i.imgur.com/vCIGFrH.png)](https://paypal.me/ashishdutt/25) [![DOI](https://zenodo.org/badge/62351661.svg)](https://zenodo.org/badge/latestdoi/62351661)
 
-*Copyright 2018 [Ashish Dutt](https://duttashi.github.io/). Licensed under the Apache 2.0 license.*
+*Copyright 2018-2028 [Ashish Dutt](https://duttashi.github.io/). Licensed under the Apache 2.0 license.*
 
-## Pipeline
+## Pipeliner
 A pipeline connecting database('s)[local or server mode] with programming language's, so that data can flow seamlessley. 
 
 ### Objective
 
-- To learn, understand and implement data pipelines between `SQL Server`, `R` and/or `Python`.
+- To implement data pipelines between `SQL Server`, `R` and/or `Python`.
 
-The repository contains the folders, `data`, `scripts` and `helpful-resources`.
+The repository contains the folders, `data`, `src`, `man`, `vignettes` and `helpful-resources`.
 
 #### Have a question?
 
