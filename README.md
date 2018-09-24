@@ -1,4 +1,4 @@
-# Pipeline
+# Readme
 A pipeline connecting database('s)[local or server mode] with programming language's, so that data can flow seamlessly.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/duttashi/pipeliner/graphs/commit-activity) 
